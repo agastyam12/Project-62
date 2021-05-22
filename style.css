@@ -1,0 +1,33 @@
+#mainPic{
+    width:1300px;
+    height:500px;
+}
+img{
+    width:259px;
+    height:194px;
+}
+html{
+    scroll-behavior:smooth;
+}
+.menu{
+    position:fixed;
+    top:0px;
+    z-index:10;
+    background:white;
+    width:100%;
+    margin-top:0px;
+}
+.link{
+     display:inline;
+    padding-left:33px;
+    padding-right:25px;
+    font-family:sans-serif;
+    font-size:20px;
+}
+body{
+    text-align:center;
+}
+.contaner{
+    height:300px;
+    font-size:50px;
+}
